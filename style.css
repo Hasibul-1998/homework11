@@ -1,0 +1,343 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #003334;
+     width: 100%;
+    height: 700px;
+}
+.div1{
+    margin: 30px 0 0 30px;
+    height: 30px;
+    
+}
+.sdiv1{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: #227DBC;
+    display: inline-block;
+    box-shadow: 2px 2px 3px 2px black;
+}
+.sdiv1 p{
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    
+}
+.sdiv2{
+    display: inline-block;
+    margin: 0 0 0 5px;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 3px 2px 1px black;
+}
+.div2{
+    margin: 5px 0 0 30px;
+    height: 30px;
+    
+}
+.sdiv3{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: #02CD79;
+    display: inline-block;
+    box-shadow: 2px 2px 3px 2px black;
+}
+.sdiv3 p{
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    
+}
+.sdiv4{
+    display: inline-block;
+    margin: 0 0 0 5px;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 3px 2px 1px black;
+}
+.div3{
+    margin: 5px 0 0 70px;
+    height: 30px;
+    
+}
+.sdiv5{
+    height: 30px;
+    width: 30px;
+    background-color: #227CB4;
+    display: inline-block;
+    box-shadow: 2px 2px 3px 2px black;
+}
+.sdiv5 p{
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    
+}
+.sdiv6{
+    display: inline-block;
+    margin: 0 0 0 5px;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 3px 2px 1px black;
+}
+.div4{
+    margin: 5px 0 0 70px;
+    height: 30px;
+    
+}
+.sdiv7{
+    height: 30px;
+    width: 30px;
+    background-color: #02CD79;
+    display: inline-block;
+    box-shadow: 2px 2px 3px 2px black;
+}
+.sdiv7 p{
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    
+}
+.sdiv8{
+    display: inline-block;
+    margin: 0 0 0 5px;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 3px 2px 1px black;
+}
+.div5{
+    margin: 5px 0 0 70px;
+    height: 30px;
+    
+}
+.sdiv9{
+    height: 30px;
+    width: 30px;
+    background-color: #6A3482;
+    display: inline-block;
+    box-shadow: 2px 2px 3px 2px black;
+}
+.sdiv9 p{
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    
+}
+.sdiv10{
+    display: inline-block;
+    margin: 0 0 0 5px;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 3px 2px 1px black;
+    text-transform: capitalize;
+}
+.div6{
+    margin: 7px 0 0 30px;
+    height: 30px;
+    
+}
+.sdiv11{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: #6A3482;
+    display: inline-block;
+    box-shadow: 2px 2px 3px 2px black;
+}
+.sdiv11 p{
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    
+}
+.sdiv12{
+    display: inline-block;
+    margin: 0 0 0 5px;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 3px 2px 1px black;
+    text-transform: capitalize;
+}
+.div7{
+    margin: 7px 0 0 30px;
+    height: 30px;
+    
+}
+.sdiv13{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: #00CF74;
+    display: inline-block;
+    box-shadow: 2px 2px 3px 2px black;
+}
+.sdiv13 p{
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    
+}
+.sdiv14{
+    display: inline-block;
+    margin: 0 0 0 5px;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 3px 2px 1px black;
+}
+.div8{
+    margin: 7px 0 0 30px;
+    height: 30px;
+    
+}
+.sdiv15{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: #6A3482;
+    display: inline-block;
+    box-shadow: 2px 2px 3px 2px black;
+}
+.sdiv15 p{
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    
+}
+.sdiv16{
+    display: inline-block;
+    margin: 0 0 0 5px;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 3px 2px 1px black;
+    text-transform: capitalize;
+}
+.div9{
+    margin: 7px 0 0 30px;
+    height: 30px;
+    
+}
+.sdiv17{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: #227DBC;
+    display: inline-block;
+    box-shadow: 2px 2px 3px 2px black;
+}
+.sdiv17 p{
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    
+}
+.sdiv18{
+    display: inline-block;
+    margin: 0 0 0 5px;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 3px 2px 1px black;
+}
+.div10{
+    margin: 5px 0 0 70px;
+    height: 30px;
+    
+}
+.sdiv19{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: #227CB4;
+    display: inline-block;
+    box-shadow: 2px 2px 3px 2px black;
+}
+.sdiv19 p{
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    
+}
+.sdiv20{
+    display: inline-block;
+    margin: 0 0 0 5px;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 3px 2px 1px black;
+}
+.div11{
+    margin: 5px 0 0 70px;
+    height: 30px;
+    
+}
+.sdiv21{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: #02CD79;
+    display: inline-block;
+    box-shadow: 2px 2px 3px 2px black;
+}
+.sdiv21 p{
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    
+}
+.sdiv22{
+    display: inline-block;
+    margin: 0 0 0 5px;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 3px 2px 1px black;
+}
+.div12{
+    margin: 5px 0 0 70px;
+    height: 30px;
+    
+}
+.sdiv23{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: #6A3482;
+    display: inline-block;
+    box-shadow: 2px 2px 3px 2px black;
+}
+.sdiv23 p{
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    
+}
+.sdiv24{
+    display: inline-block;
+    margin: 0 0 0 5px;
+    font-size: 20px;
+    font-style: oblique;
+    color: white;
+    text-shadow: 3px 2px 1px black;
+}
